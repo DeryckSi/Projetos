@@ -5,7 +5,8 @@ Este é um projeto detalhado de banco de dados para um sistema de E-Commerce, qu
 Neste arquivo foi criado um modelo de entidade de relacionamento aprimorado (EER).
 
 CARACTERÍSTICAS 
-
 🛍️ Catálogo de produtos: navegue e pesquise produtos com descrições e imagens detalhadas.
+
 🛒 Carrinho de compras: adicione, remova e gerencie itens no carrinho antes de finalizar a compra.
+
 📦 Gerenciamento de pedidos: rastreie pedidos, visualize o histórico de pedidos e gerencie transações.
