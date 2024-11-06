@@ -12,4 +12,7 @@ Neste arquivo foi criado um modelo de entidade de relacionamento aprimorado (EER
 🛒 Carrinho de compras: adicione, remova e gerencie itens no carrinho antes de finalizar a compra.
 
 📦 Gerenciamento de pedidos: rastreie pedidos, visualize o histórico de pedidos e gerencie transações.
+
+
+Pré-Vizualização
 ![entregue](https://github.com/user-attachments/assets/62efdac6-2c0e-4189-9a3b-b6245bf3bcda)
